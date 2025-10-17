@@ -1,0 +1,10 @@
+export const NotesDashboard = () => { /* NotesDashboard logic */ };
+export const Sidebar = () => { /* Sidebar logic */ };
+export const Header = () => { /* Header logic */ };
+export const MainContent = () => { /* MainContent logic */ };
+export const NoteForm = () => { /* NoteForm logic */ };
+export const NoteFilter = () => { /* NoteFilter logic */ };
+export const NotesList = () => { /* NotesList logic */ };
+export const NoteCard = () => { /* NoteCard logic */ };
+export const NoteColorPicker = () => { /* NoteColorPicker logic */ };
+export const Trash = () => { /* Trash logic */ };
