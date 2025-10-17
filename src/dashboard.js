@@ -7,4 +7,5 @@ export const NoteFilter = () => { /* NoteFilter logic */ };
 export const NotesList = () => { /* NotesList logic */ };
 export const NoteCard = () => { /* NoteCard logic */ };
 export const NoteColorPicker = () => { /* NoteColorPicker logic */ };
+export const NoteEdit = () => { /* NoteEdit logic */ };
 export const Trash = () => { /* Trash logic */ };
